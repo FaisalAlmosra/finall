@@ -1,0 +1,10 @@
+body {
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 25rem;
+}
